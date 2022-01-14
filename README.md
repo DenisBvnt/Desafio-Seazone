@@ -1,4 +1,4 @@
-# Desafio Seazone
+<h1>Desafio Seazone</h1>
 
 <i>Esse é um desafio técnico proposto pela Seazone para a vaga de Analista de Dados Jr.</i>
 
@@ -12,16 +12,16 @@
 4. Qual a antecedência média das reservas?
 <br><t>a. Esse número é maior ou menor para finais de semana?
 ---
-<h1>✔Resultados📊</h1>
+<h1>Resultados 📊📈📉</h1>
   
 Os resultados encontrados podem ser acessados por meio dos links abaixo:
   - Dashboard Power BI: https://bit.ly/3ttY5JC
   - Jupyter Notebook:
 ---
-🎲 **Dados utilizados no desafio:** 🎲
+🎲 **Dados utilizados no desafio** 🎲
   - **desafio_priceav.csv:** Contém dados de ocupação e preço de anúncios;
   - **desafio_details.csv:** Contém características de cada anúncio.
 ---
-⚙ **Ferramentas utilizadas:** ⚙
+⚙ **Ferramentas utilizadas** ⚙
   - Python e bibliotecas (pandas, seaborn, matplotlib, etc);
   - Power BI.
