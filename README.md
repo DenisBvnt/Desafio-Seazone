@@ -15,8 +15,8 @@
 <h1>Resultados 📊📈📉</h1>
   
 Os resultados encontrados podem ser acessados por meio dos links abaixo:
-  - Dashboard Power BI: https://bit.ly/3ttY5JC
-  - Jupyter Notebook:
+  - **Jupyter Notebook:** https://bit.ly/3nuvGz3
+  - **Dashboard Power BI:** https://bit.ly/3ttY5JC
 ---
 🎲 **Dados utilizados no desafio** 🎲
   - **desafio_priceav.csv:** Contém dados de ocupação e preço de anúncios;
